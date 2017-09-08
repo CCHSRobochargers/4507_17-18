@@ -49,9 +49,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <string name="configure_robot_menu_item">Configure Robot</string>
     <string name="about_menu_item">About</string>
     <string name="exit_menu_item">Exit</string>
-    
-    <!-- Switches--> 
+
+    <!-- Switches-->
     <string name="switch_menu_item">Digital Switch</string>
+    <string name="add_auto">Create Auto</string>
 
     <!-- Toast messages -->
     <string name="toastWifiConfigurationComplete">Configuration Complete</string>

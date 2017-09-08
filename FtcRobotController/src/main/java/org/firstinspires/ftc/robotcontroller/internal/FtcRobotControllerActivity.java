@@ -505,6 +505,10 @@ public class FtcRobotControllerActivity extends Activity {
       finish();
       return true;
     }
+    else if (id == R.id.action_switch) {
+      Intent intent = new Intent(this, SwitchActivity.class);
+      startActivity(intent);
+    }
 
    return super.onOptionsItemSelected(item);
   }

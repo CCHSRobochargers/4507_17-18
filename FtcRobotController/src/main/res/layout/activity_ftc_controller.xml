@@ -37,8 +37,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
               android:layout_height="match_parent"
               tools:context="org.firstinspires.ftc.robotcontroller.internal.FtcRobotControllerActivity"
               android:focusable="true"
-              android:id="@+id/entire_screen"
-              android:orientation="vertical">
+              android:id="@+id/entire_screen">
 
   <!-- black bar on top -->
   <RelativeLayout
